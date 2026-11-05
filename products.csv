@@ -1,0 +1,201 @@
+﻿Product_ID,Product_Name,Category,Sub_Category,Brand,Unit_Price,Cost_Price
+PROD0001,Footwear Orbit 001,Fashion,Footwear,Apex,9799.01,6113.59
+PROD0002,Skincare Zenith 002,Beauty,Skincare,Nova,1679.24,980.71
+PROD0003,Decor ActiveX 003,Home & Kitchen,Decor,Apex,10983.12,7748.36
+PROD0004,Bags Orbit 004,Fashion,Bags,Elite,9272.28,6444.83
+PROD0005,Fragrance Elite 005,Beauty,Fragrance,UrbanCart,4347.87,3433.32
+PROD0006,Laptops Viva 006,Electronics,Laptops,HomePro,41263.77,34132.49
+PROD0007,Bags UrbanCart 007,Fashion,Bags,Nova,5388.14,3008.87
+PROD0008,Accessories Viva 008,Sports,Accessories,HomePro,17956.32,11002.4
+PROD0009,Equipment Viva 009,Sports,Equipment,PrimeTech,5217.38,4589.39
+PROD0010,Accessories Viva 010,Sports,Accessories,HomePro,11347.86,6691.77
+PROD0011,Women Clothing ActiveX 011,Fashion,Women Clothing,Apex,7350.9,4434.01
+PROD0012,Men Clothing Apex 012,Fashion,Men Clothing,PrimeTech,7595.83,5438.98
+PROD0013,Women Clothing UrbanCart 013,Fashion,Women Clothing,Apex,11816.47,7082.07
+PROD0014,Equipment Viva 014,Sports,Equipment,Elite,18688.27,12829.29
+PROD0015,Sportswear UrbanCart 015,Sports,Sportswear,ActiveX,7135.88,4782.74
+PROD0016,Headphones Orbit 016,Electronics,Headphones,Nova,55616.37,35995.11
+PROD0017,Equipment Apex 017,Sports,Equipment,UrbanCart,10395.78,8588
+PROD0018,Bags ActiveX 018,Fashion,Bags,Nova,1665.43,1337.36
+PROD0019,Footwear Orbit 019,Fashion,Footwear,Zenith,5350.31,3016.58
+PROD0020,Laptops Apex 020,Electronics,Laptops,HomePro,73460.56,51984.97
+PROD0021,Sportswear Viva 021,Sports,Sportswear,Apex,12581.02,9256.81
+PROD0022,Personal Care Nova 022,Beauty,Personal Care,Orbit,3970.01,2546.15
+PROD0023,Smartphones Apex 023,Electronics,Smartphones,Zenith,38703.84,28816.75
+PROD0024,Laptops Viva 024,Electronics,Laptops,Apex,79309.2,62817.01
+PROD0025,Storage Elite 025,Home & Kitchen,Storage,UrbanCart,10288.47,5817.75
+PROD0026,Fitness Viva 026,Sports,Fitness,Nova,13294.68,9000.78
+PROD0027,Storage Elite 027,Home & Kitchen,Storage,Orbit,26052.03,19250.41
+PROD0028,Storage Elite 028,Home & Kitchen,Storage,Elite,20410.35,13546.08
+PROD0029,Appliances ActiveX 029,Home & Kitchen,Appliances,Nova,5578.66,3104.56
+PROD0030,Decor Apex 030,Home & Kitchen,Decor,Zenith,2658.83,2261.67
+PROD0031,Footwear HomePro 031,Fashion,Footwear,Nova,3726.31,2739.15
+PROD0032,Men Clothing ActiveX 032,Fashion,Men Clothing,HomePro,1910.33,1199.39
+PROD0033,Accessories Elite 033,Electronics,Accessories,Zenith,33366.64,19537.42
+PROD0034,Makeup Nova 034,Beauty,Makeup,Viva,2238.13,1713.31
+PROD0035,Women Clothing Zenith 035,Fashion,Women Clothing,Elite,5907.86,4816.86
+PROD0036,Accessories Zenith 036,Fashion,Accessories,UrbanCart,5291.63,3932.07
+PROD0037,Accessories Zenith 037,Sports,Accessories,ActiveX,18372.35,13078.02
+PROD0038,Personal Care Elite 038,Beauty,Personal Care,UrbanCart,6100.46,4804.09
+PROD0039,Bags UrbanCart 039,Fashion,Bags,Elite,11838.09,6949.6
+PROD0040,Makeup ActiveX 040,Beauty,Makeup,Elite,3697.19,2848.67
+PROD0041,Sportswear Elite 041,Sports,Sportswear,Elite,11258.78,8471.2
+PROD0042,Women Clothing Apex 042,Fashion,Women Clothing,Zenith,11984.74,7705.99
+PROD0043,Outdoor Nova 043,Sports,Outdoor,Zenith,1184.61,1010.38
+PROD0044,Haircare ActiveX 044,Beauty,Haircare,Orbit,520.99,311.71
+PROD0045,Decor Zenith 045,Home & Kitchen,Decor,Apex,10642.29,6418.07
+PROD0046,Storage Orbit 046,Home & Kitchen,Storage,HomePro,20142.68,11359.91
+PROD0047,Makeup Zenith 047,Beauty,Makeup,ActiveX,6040.15,3728.27
+PROD0048,Bags Orbit 048,Fashion,Bags,,10880.99,7480.69
+PROD0049,Decor PrimeTech 049,Home & Kitchen,Decor,Zenith,2779.35,2401.65
+PROD0050,Storage Nova 050,Home & Kitchen,Storage,Orbit,9813.06,7331.54
+PROD0051,Bags ActiveX 051,Fashion,Bags,Elite,2831.87,2208.61
+PROD0052,Fitness PrimeTech 052,Sports,Fitness,Viva,9328.41,7994.07
+PROD0053,Women Clothing Apex 053,Fashion,Women Clothing,Orbit,5374.7,3533.75
+PROD0054,Smartphones Viva 054,Electronics,Smartphones,Apex,55022.61,43505.59
+PROD0055,Smartphones Elite 055,Electronics,Smartphones,Elite,19280.69,11805.21
+PROD0056,Appliances Elite 056,Home & Kitchen,Appliances,Elite,28818.3,20504.56
+PROD0057,Smartphones Nova 057,Electronics,Smartphones,Apex,74699.06,55899.56
+PROD0058,Headphones Nova 058,Electronics,Headphones,ActiveX,53155.54,32817.29
+PROD0059,Skincare PrimeTech 059,Beauty,Skincare,HomePro,5962.32,3811.58
+PROD0060,Women Clothing ActiveX 060,Fashion,Women Clothing,ActiveX,368.45,223.87
+PROD0061,Makeup Nova 061,Beauty,Makeup,UrbanCart,695.56,407.97
+PROD0062,Fragrance Apex 062,Beauty,Fragrance,Orbit,1302.87,758.12
+PROD0063,Skincare Viva 063,Beauty,Skincare,Viva,1200.67,839.04
+PROD0064,Personal Care Elite 064,Beauty,Personal Care,HomePro,3056.02,2601.14
+PROD0065,Fitness Zenith 065,Sports,Fitness,HomePro,5048,3315.16
+PROD0066,Cookware Orbit 066,Home & Kitchen,Cookware,UrbanCart,9534.66,6838.76
+PROD0067,Bags Zenith 067,Fashion,Bags,UrbanCart,2271.36,1692.6
+PROD0068,Makeup Zenith 068,Beauty,Makeup,UrbanCart,7852.67,4818.44
+PROD0069,Makeup ActiveX 069,Beauty,Makeup,Apex,5453.47,4646.53
+PROD0070,Smartphones Zenith 070,Electronics,Smartphones,HomePro,76433.58,50784.64
+PROD0071,Storage Nova 071,Home & Kitchen,Storage,Viva,18397.02,13455.17
+PROD0072,Footwear HomePro 072,Fashion,Footwear,PrimeTech,11667.44,8168.16
+PROD0073,Fitness Apex 073,Sports,Fitness,Orbit,6334,4179.5
+PROD0074,Furniture Orbit 074,Home & Kitchen,Furniture,Orbit,11233.48,7094.5
+PROD0075,Fitness HomePro 075,Sports,Fitness,Apex,10224.17,8534.11
+PROD0076,Smartphones Viva 076,Electronics,Smartphones,Apex,78605.12,53208.29
+PROD0077,Equipment Zenith 077,Sports,Equipment,Zenith,9994.76,7521.31
+PROD0078,Fragrance UrbanCart 078,Beauty,Fragrance,Viva,5142.11,3530.2
+PROD0079,Footwear Nova 079,Fashion,Footwear,Nova,10798.22,7922.26
+PROD0080,Footwear Zenith 080,Fashion,Footwear,Orbit,851.36,651.34
+PROD0081,Outdoor Viva 081,Sports,Outdoor,Orbit,9081.01,5928.85
+PROD0082,Cameras PrimeTech 082,Electronics,Cameras,Zenith,2316.25,1506.04
+PROD0083,Skincare Zenith 083,Beauty,Skincare,Nova,5415.82,4250.14
+PROD0084,Headphones Elite 084,Electronics,Headphones,Viva,32228.72,20145.89
+PROD0085,Fitness Apex 085,Sports,Fitness,PrimeTech,11979.17,8013.18
+PROD0086,Outdoor PrimeTech 086,Sports,Outdoor,Viva,8603.2,4775.47
+PROD0087,Smartphones ActiveX 087,Electronics,Smartphones,Orbit,17979.84,14827.14
+PROD0088,Accessories PrimeTech 088,Fashion,Accessories,Elite,6335.92,4693.4
+PROD0089,Cookware Elite 089,Home & Kitchen,Cookware,Nova,11503.94,6384.83
+PROD0090,Skincare UrbanCart 090,Beauty,Skincare,Elite,1023.41,851.84
+PROD0091,Laptops HomePro 091,Electronics,Laptops,Nova,11225.41,6534.09
+PROD0092,Equipment Viva 092,Sports,Equipment,Elite,1529.42,1152.13
+PROD0093,Sportswear UrbanCart 093,Sports,Sportswear,Nova,16594.41,14585.32
+PROD0094,Fitness Elite 094,Sports,Fitness,Orbit,16088.82,13529.34
+PROD0095,Outdoor Elite 095,Sports,Outdoor,UrbanCart,13744.12,11621.64
+PROD0096,Accessories HomePro 096,Fashion,Accessories,Elite,10994.51,8370.26
+PROD0097,Decor PrimeTech 097,Home & Kitchen,Decor,Nova,2495.37,2169.09
+PROD0098,Haircare Zenith 098,Beauty,Haircare,PrimeTech,4954.01,3531.02
+PROD0099,Smartphones ActiveX 099,Electronics,Smartphones,Apex,7781.52,5341.13
+PROD0100,Equipment Apex 100,Sports,Equipment,PrimeTech,5158.9,3734.62
+PROD0101,Furniture UrbanCart 101,Home & Kitchen,Furniture,Zenith,16694.95,14660.42
+PROD0102,Accessories Elite 102,Electronics,Accessories,HomePro,20620.13,14491.8
+PROD0103,Cameras Viva 103,Electronics,Cameras,Orbit,11897.43,10105.63
+PROD0104,Women Clothing HomePro 104,Fashion,Women Clothing,Elite,9195.22,7263.09
+PROD0105,Personal Care Zenith 105,Beauty,Personal Care,Viva,782.61,615.49
+PROD0106,Fragrance Zenith 106,Beauty,Fragrance,Elite,3398.39,2817.34
+PROD0107,Smartphones Apex 107,Electronics,Smartphones,Orbit,30248.04,24540.35
+PROD0108,Outdoor HomePro 108,Sports,Outdoor,Zenith,17530.24,12607.09
+PROD0109,Smartphones Elite 109,Electronics,Smartphones,ActiveX,31094.01,26225.78
+PROD0110,Outdoor Zenith 110,Sports,Outdoor,Nova,864.47,547.14
+PROD0111,Personal Care PrimeTech 111,Beauty,Personal Care,Orbit,2169.12,1214.97
+PROD0112,Fragrance Orbit 112,Beauty,Fragrance,Orbit,5781.24,3551.98
+PROD0113,Women Clothing Nova 113,Fashion,Women Clothing,Elite,2237.72,1361.01
+PROD0114,Outdoor Apex 114,Sports,Outdoor,PrimeTech,10053,5668.59
+PROD0115,Men Clothing Viva 115,Fashion,Men Clothing,Nova,11607.77,9630.1
+PROD0116,Fragrance Elite 116,Beauty,Fragrance,UrbanCart,676.81,378.35
+PROD0117,Fragrance Elite 117,Beauty,Fragrance,ActiveX,5063.52,3008.31
+PROD0118,Men Clothing Elite 118,Fashion,Men Clothing,HomePro,3390.45,2734.29
+PROD0119,Cookware Viva 119,Home & Kitchen,Cookware,HomePro,775.37,469.77
+PROD0120,Personal Care Nova 120,Beauty,Personal Care,PrimeTech,2132.68,1348.45
+PROD0121,Appliances Elite 121,Home & Kitchen,Appliances,UrbanCart,12116.25,9040.26
+PROD0122,Decor ActiveX 122,Home & Kitchen,Decor,Apex,8293.65,6346.1
+PROD0123,Appliances Zenith 123,Home & Kitchen,Appliances,Orbit,1844.63,1060.37
+PROD0124,Cookware Nova 124,Home & Kitchen,Cookware,Elite,5090.07,3203.77
+PROD0125,Laptops UrbanCart 125,Electronics,Laptops,ActiveX,50237.8,44133.15
+PROD0126,Haircare PrimeTech 126,Beauty,Haircare,HomePro,5394.13,3926.64
+PROD0127,Haircare Orbit 127,Beauty,Haircare,UrbanCart,3148.52,2233.8
+PROD0128,Bags Nova 128,Fashion,Bags,HomePro,6991.94,5728.2
+PROD0129,Decor Orbit 129,Home & Kitchen,Decor,Orbit,4006.31,2862.75
+PROD0130,Accessories Viva 130,Sports,Accessories,UrbanCart,598.7,452.98
+PROD0131,Skincare Elite 131,Beauty,Skincare,UrbanCart,7600.42,6420.71
+PROD0132,Personal Care Zenith 132,Beauty,Personal Care,Apex,1110.98,674.77
+PROD0133,Headphones Elite 133,Electronics,Headphones,PrimeTech,11268.74,7256.01
+PROD0134,Sportswear HomePro 134,Sports,Sportswear,Apex,10762.34,7298.22
+PROD0135,Men Clothing PrimeTech 135,Fashion,Men Clothing,Nova,5352.62,3341.8
+PROD0136,Furniture PrimeTech 136,Home & Kitchen,Furniture,UrbanCart,17329.25,11836.52
+PROD0137,Sportswear Apex 137,Sports,Sportswear,ActiveX,6060.5,3606.21
+PROD0138,Smartphones HomePro 138,Electronics,Smartphones,Nova,2508.43,1675.76
+PROD0139,Accessories Viva 139,Electronics,Accessories,Zenith,16563.7,13484.91
+PROD0140,Laptops UrbanCart 140,Electronics,Laptops,ActiveX,28867.17,21659.06
+PROD0141,Haircare Viva 141,Beauty,Haircare,HomePro,1288.9,793.01
+PROD0142,Decor Orbit 142,Home & Kitchen,Decor,Nova,29018.92,21709.23
+PROD0143,Women Clothing Viva 143,Fashion,Women Clothing,HomePro,5115.55,3036.07
+PROD0144,Men Clothing Viva 144,Fashion,Men Clothing,PrimeTech,8336.71,5459.6
+PROD0145,Fitness PrimeTech 145,Sports,Fitness,Apex,14612.27,9307.14
+PROD0146,Outdoor Elite 146,Sports,Outdoor,Nova,4110.4,2473.28
+PROD0147,Bags Elite 147,Fashion,Bags,HomePro,9347.61,7402.91
+PROD0148,Storage PrimeTech 148,Home & Kitchen,Storage,Nova,8849.46,4993.19
+PROD0149,Decor Orbit 149,Home & Kitchen,Decor,Orbit,17074.48,13066.85
+PROD0150,Makeup Elite 150,Beauty,Makeup,Zenith,3513.11,2428.53
+PROD0151,Decor Apex 151,Home & Kitchen,Decor,HomePro,11095.94,8035.45
+PROD0152,Fragrance Nova 152,Beauty,Fragrance,HomePro,2247.81,1689.48
+PROD0153,Furniture ActiveX 153,Home & Kitchen,Furniture,Zenith,14836.1,8887.95
+PROD0154,Accessories Apex 154,Sports,Accessories,Apex,3284.41,2540.58
+PROD0155,Laptops ActiveX 155,Electronics,Laptops,PrimeTech,3964.24,2963.53
+PROD0156,Furniture PrimeTech 156,Home & Kitchen,Furniture,Viva,21020.72,13059.61
+PROD0157,Smartphones Zenith 157,Electronics,Smartphones,ActiveX,41515.31,28775.81
+PROD0158,Sportswear Nova 158,Sports,Sportswear,HomePro,8646.66,6663.73
+PROD0159,Footwear PrimeTech 159,Fashion,Footwear,ActiveX,735.31,426.54
+PROD0160,Personal Care PrimeTech 160,Beauty,Personal Care,ActiveX,1796.82,1199.94
+PROD0161,Accessories Orbit 161,Fashion,Accessories,Nova,5941.66,3539.29
+PROD0162,Bags HomePro 162,Fashion,Bags,Zenith,1173.17,656.11
+PROD0163,Laptops UrbanCart 163,Electronics,Laptops,Elite,48106.92,36879.61
+PROD0164,Men Clothing Elite 164,Fashion,Men Clothing,Viva,4857.69,3570.6
+PROD0165,Decor Orbit 165,Home & Kitchen,Decor,UrbanCart,26777.99,23485.36
+PROD0166,Cameras HomePro 166,Electronics,Cameras,Viva,64652.81,46217.7
+PROD0167,Skincare HomePro 167,Beauty,Skincare,UrbanCart,6819.2,5347
+PROD0168,Decor HomePro 168,Home & Kitchen,Decor,Zenith,5004.46,3919.2
+PROD0169,Fragrance HomePro 169,Beauty,Fragrance,HomePro,1057.24,645.78
+PROD0170,Makeup HomePro 170,Beauty,Makeup,Elite,7669.38,5406.39
+PROD0171,Outdoor Nova 171,Sports,Outdoor,HomePro,17511.41,14864.48
+PROD0172,Appliances ActiveX 172,Home & Kitchen,Appliances,Elite,19318.75,15016.6
+PROD0173,Personal Care UrbanCart 173,Beauty,Personal Care,Viva,4099.08,3529.77
+PROD0174,Sportswear Orbit 174,Sports,Sportswear,Zenith,17436.47,11655.83
+PROD0175,Cookware HomePro 175,Home & Kitchen,Cookware,PrimeTech,21210.62,16592.22
+PROD0176,Haircare Apex 176,Beauty,Haircare,Orbit,3810,3191.85
+PROD0177,Bags Zenith 177,Fashion,Bags,UrbanCart,3525.91,2173.87
+PROD0178,Bags Nova 178,Fashion,Bags,Viva,7333.12,4409.55
+PROD0179,Accessories Orbit 179,Fashion,Accessories,ActiveX,328.21,258.96
+PROD0180,Laptops Viva 180,Electronics,Laptops,Viva,52454.12,45238.51
+PROD0181,Fitness Orbit 181,Sports,Fitness,Orbit,7088.28,5133.2
+PROD0182,Bags ActiveX 182,Fashion,Bags,Zenith,1639.1,975.32
+PROD0183,Footwear HomePro 183,Fashion,Footwear,HomePro,7310.01,4778.45
+PROD0184,Appliances PrimeTech 184,Home & Kitchen,Appliances,Orbit,27371.12,16437.2
+PROD0185,Footwear PrimeTech 185,Fashion,Footwear,Orbit,3755.17,2404.33
+PROD0186,Equipment Apex 186,Sports,Equipment,Elite,4809.38,3817.77
+PROD0187,Haircare Elite 187,Beauty,Haircare,Zenith,5940.64,4965.54
+PROD0188,Cameras Zenith 188,Electronics,Cameras,PrimeTech,79353.96,54738.15
+PROD0189,Women Clothing ActiveX 189,Fashion,Women Clothing,PrimeTech,10461.44,8821.15
+PROD0190,Cameras Apex 190,Electronics,Cameras,HomePro,3112.63,1876.77
+PROD0191,Smartphones PrimeTech 191,Electronics,Smartphones,Viva,36195.21,23813.06
+PROD0192,Accessories Elite 192,Fashion,Accessories,Elite,11330.65,8383.17
+PROD0193,Smartphones Elite 193,Electronics,Smartphones,PrimeTech,15580.58,11917.74
+PROD0194,Cookware UrbanCart 194,Home & Kitchen,Cookware,Apex,13735.78,12085.17
+PROD0195,Furniture Viva 195,Home & Kitchen,Furniture,Zenith,2966.36,1681.1
+PROD0196,Men Clothing UrbanCart 196,Fashion,Men Clothing,ActiveX,6216.17,3924.92
+PROD0197,Makeup PrimeTech 197,Beauty,Makeup,HomePro,4564.17,2931.99
+PROD0198,Cookware Viva 198,Home & Kitchen,Cookware,HomePro,2817.08,1683.81
+PROD0199,Haircare Elite 199,Beauty,Haircare,,7565.62,5884.61
+PROD0200,Makeup Apex 200,Beauty,Makeup,Zenith,4353.34,3265.48
